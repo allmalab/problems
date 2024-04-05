@@ -1,6 +1,6 @@
 # Challenges in Azerbaijani NLP
 
-![](assets/colored.png "Title")
+![](assets/long.png "Title")
 
 This repository is used to host problems in Azerbaijani NLP, and discussions around them. They are recorded as GitHub issues. You are welcome to create new issues, although admins may edit, move, or delete them.
 
